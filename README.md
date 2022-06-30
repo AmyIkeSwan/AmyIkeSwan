@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmyIkeSwan
 - 👀 I’m interested in Data Science- SQL, R, Python
-- 🌱 I’m currently learning with WozU and am in the FinalGroupProject section of my Data Science learning.
-- 💞️ I’m looking to collaborate on learning more data wrangling secrets for R and Python. And hopeful for remote job leads.
+- 🌱 I’m currently looking for a new career position using my new found Data Science skills.
+- 💞️ I’m looking to collaborate on learning more data wrangling secrets for R and Python.
 - 📫 How to reach me amy.swanson933@gmail.com or https://www.linkedin.com/in/amy-swanson-isaacson933/
 
 <!---
